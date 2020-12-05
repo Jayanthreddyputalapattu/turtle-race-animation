@@ -4,7 +4,7 @@ from turtle import Turtle
 from random import randint
 
 jayanth = turtle.Screen()
-jayanth.title("race")
+jayanth.title("turtle-race-animation")
 turtle.bgcolor("green")
 turtle.color("white")
 turtle.speed(0)
